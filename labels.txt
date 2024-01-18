@@ -1,0 +1,8 @@
+0 merkurius
+1 venus
+2 bumi
+3 mars
+4 jupiter
+5 saturnus
+6 uranus
+7 neptunus
